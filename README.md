@@ -19,11 +19,31 @@
   * orange
 
 1. vegetables
-    1.potato
-    2.tomato
-    3.brinjal
+   1. potato
+   2. tomato
+   3. brinjal
 
 [git](https://git-scm.com/)
 
-<!-- ![git](https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-  
+s.no|name
+----|----
+1|prasanna
+2|deepika
+3|var
+
+**something _different_ right**
+
+:+1:
+😄
+🤭
+
+1. Nested list
+   1. Inside the frst nested list
+      1. Inside the scnd nested list
+
+1. list
+   [] task
+   
+<!-- hidden text -->
+
+![nature](https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max)
